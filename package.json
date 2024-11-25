@@ -1,5 +1,5 @@
 {
-  "name": "react-beautiful-dnd-NO-SCROLL-FORK",
+  "name": "@truemajner/react-beautiful-dnd-no-scroll",
   "version": "13.1.1",
   "description": "Beautiful and accessible drag and drop for lists with React",
   "author": "Alex Reardon <areardon@atlassian.com>",
