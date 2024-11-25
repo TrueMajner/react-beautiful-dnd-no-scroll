@@ -29,6 +29,7 @@ export default ({
   });
 
   const scroll = (state: State) => {
+    return;
     // Only allowing auto scrolling in the DRAGGING phase
     if (state.phase !== 'DRAGGING') {
       return;
